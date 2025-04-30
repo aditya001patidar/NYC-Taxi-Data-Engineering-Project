@@ -35,20 +35,7 @@ This project shows how to build a complete data pipeline using Azure tools to tu
 - Learned how to organize data using the Bronze-Silver-Gold model
 
 ## Simple Architecture
-API (NYC Taxi Data)
-
-      ↓  
-Azure Data Factory
-
-      ↓ 
-Azure Data Lake Gen2 (Bronze Layer)
-
-      ↓
-Azure Databricks + PySpark
-
-      ↓  
-Delta Tables (Gold Layer)
+![WhatsApp Image 2025-04-30 at 17 52 13_86370423](https://github.com/user-attachments/assets/bd3b7692-ea90-473e-9c31-44e5d9bf7da4)
 
 ## Project Demo
-
 ![WhatsApp Image 2025-04-30 at 17 45 56_6ad5f162](https://github.com/user-attachments/assets/6c305b40-8758-4eb6-b1df-aa6d20982224)
